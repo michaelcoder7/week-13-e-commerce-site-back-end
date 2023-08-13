@@ -20,6 +20,8 @@ THEN One is able to successfully create, update, and delete data in my database
 
 ## Activities carried out and Important Information
 
+Postman was used instead of Insomnia
+
 Inquirer package version 8.2.4 installed
 
 Necessary Backend code updated for process to run smoothly
